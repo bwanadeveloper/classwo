@@ -1,16 +1,13 @@
-1. git add - add your changes ready for commit
-2. git commit - Commititng your changes
-3. git push
+mkdir - make directory (in your machine)
+
+clone
+git clone (repository link)
+
+change directory using cd comand
 
 
-Collaboration env
-
-git pull- Pulling updates from the remote repo
-
+git pull
 
 git add .
-git commit -m "Readme.md"
+git commit -m "fixed password reset bug"
 git push
-
-
-i am mark
